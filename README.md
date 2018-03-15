@@ -6,18 +6,21 @@ One Paragraph of project description goes here
 
 What frameworks you need before cloning the project and how to install them
 
-# * nodejs
+``` bash
+* nodejs
 
-Windows, follow the below link
+# Windows, follow the below link
 http://blog.teamtreehouse.com/install-node-js-npm-windows
 
-Linux based OS
+# Linux based OS
 https://nodejs.org/en/download/package-manager/
 
-# * Vue CLI
+* Vue CLI
 
 # install vue-cli using command prompt or terminal
 npm install --global vue-cli
+
+```
 
 ### Installing
 
