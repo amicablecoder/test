@@ -6,7 +6,6 @@ One Paragraph of project description goes here
 
 What frameworks you need before cloning the project and how to install them
 
-``` bash
 * nodejs
 
 # Windows, follow the below link
@@ -19,8 +18,6 @@ https://nodejs.org/en/download/package-manager/
 
 # install vue-cli using command prompt or terminal
 npm install --global vue-cli
-
-```
 
 ### Installing
 
