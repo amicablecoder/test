@@ -56,8 +56,9 @@ node server.js
 
 ## Deployment on heroku server
 
-``` bash
 * First time deployment
+
+``` bash
 
 heroku create projectname
 heroku config:set NODE_ENV=production --app projectname
@@ -70,13 +71,15 @@ git add .
 git commit -a -m "message"
 git push heroku master
 
+```
+
 * Posting updates
+
+``` bash
 
 git add -A
 git commit -m "message"
 git push -f heroku
-
-```
 
 ## Built With
 
