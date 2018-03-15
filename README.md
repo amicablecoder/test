@@ -9,10 +9,10 @@ What frameworks you need before cloning the project and how to install them
 
 * nodejs
 
-Windows, follow the below link
+Windows:
 http://blog.teamtreehouse.com/install-node-js-npm-windows
 
-Linux based OS
+Linux based OS:
 https://nodejs.org/en/download/package-manager/
 
 * Vue CLI
